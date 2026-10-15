@@ -1,0 +1,6 @@
+interface:
+  display_name: "大数据热点雷达"
+  short_description: "从官方信息源发现、评估并整理数据库、流计算与湖仓热点新闻"
+  default_prompt: "Use $big-data-hot-news to collect, deduplicate, and rank the most important big-data news from the past week."
+policy:
+  allow_implicit_invocation: true
